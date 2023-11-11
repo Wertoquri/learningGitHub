@@ -2,7 +2,7 @@
 
 ## my name is wertoquri
 
-![my img](I updated the description of the repository)
+![my img](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png)
 
  I`m **JS Delevoper**. *This is my example of code:* 
 
