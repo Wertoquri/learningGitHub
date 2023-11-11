@@ -1,4 +1,4 @@
-#learning to use GitHub
+# learning to use GitHub
 
 ## my name is wertoquri
 
