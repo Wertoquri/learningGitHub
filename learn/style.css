@@ -1,0 +1,116 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: monospace;
+    background-color: #0F2027;
+    color: white;
+}
+
+img {
+    width: 25vh;
+
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    background-color: black;
+    width: 140px;
+}
+
+.slideLearn {
+    background-color: rgb(25, 28, 28);
+    font-size: 40px;
+    padding: 10px 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    cursor: pointer;
+
+}
+
+.learn {
+    padding: 10px;
+    font-size: 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgb(25, 28, 28);
+    color: white;
+    font-family: monospace;
+}
+
+.btn1 {
+    position: absolute;
+    right: 16vh;
+    top: 55vh;
+    background: rgb(25, 28, 28);
+    color: #fff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.btn2 {
+    position: absolute;
+    right: 175vh;
+    top: 55vh;
+    background: rgb(25, 28, 28);
+    color: #fff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.btn3 {
+    position: absolute;
+    right: 178vh;
+    top: 65vh;
+    background: rgb(25, 28, 28);
+    color: #fff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.btn4 {
+    position: absolute;
+    right: 17.3vh;
+    top: 65vh;
+    background: rgb(25, 28, 28);
+    color: #fff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+    cursor: pointer; 
+}
+
+.hSocial {
+    font-size: 20px;
+    background: rgb(25, 28, 28);
+    color: #fff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+    position: absolute;
+    right: 170vh;
+    top: 40vh;
+}
+
+.hProjects {
+    font-size: 20px;
+    background: rgb(25, 28, 28);
+    color: #fff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    border-radius: 3px;
+    position: absolute;
+    right: 10vh;
+    top: 40vh;
+}
