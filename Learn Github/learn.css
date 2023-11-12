@@ -93,11 +93,9 @@ ul {
 
 .hSocial {
     font-size: 20px;
-    background: rgb(25, 28, 28);
     color: #fff;
     padding: 1rem 1.5rem;
     text-decoration: none;
-    border-radius: 3px;
     position: absolute;
     right: 170vh;
     top: 40vh;
@@ -105,11 +103,9 @@ ul {
 
 .hProjects {
     font-size: 20px;
-    background: rgb(25, 28, 28);
     color: #fff;
     padding: 1rem 1.5rem;
     text-decoration: none;
-    border-radius: 3px;
     position: absolute;
     right: 10vh;
     top: 40vh;
