@@ -91,22 +91,22 @@ ul {
     cursor: pointer; 
 }
 
-.hSocial {
-    font-size: 20px;
-    color: #fff;
-    padding: 1rem 1.5rem;
-    text-decoration: none;
-    position: absolute;
-    right: 170vh;
-    top: 40vh;
-}
-
 .hProjects {
     font-size: 20px;
     color: #fff;
     padding: 1rem 1.5rem;
     text-decoration: none;
     position: absolute;
-    right: 10vh;
+    right: 176vh;
+    top: 40vh;
+}
+
+.hSocial {
+    font-size: 20px;
+    color: #fff;
+    padding: 1rem 1.5rem;
+    text-decoration: none;
+    position: absolute;
+    right: 5vh;
     top: 40vh;
 }
